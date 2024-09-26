@@ -1,0 +1,5 @@
+Repositorio:
+
+git init -> Iniciat un repo vacío en la carpeta
+git add . -> Agrega todo el contenido al repo vacío (ya no está vacío)
+git commiy -m "Mensaje descriptivo" ->
