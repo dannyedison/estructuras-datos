@@ -13,6 +13,12 @@ git add . -> Agrega todo el contenido al repo vacío (ya no está vacío)
 git commiy -m "Mensaje descriptivo" ->
 git push -u origin nombreDeLaRama
 
+En github
+compare pull request
+create pull request
+merge pull request
+confir merge
+
 
 
 Los arreglos son un espacio de memoria que almacena multiples valores.

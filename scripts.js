@@ -9,11 +9,21 @@
 
 // console.log(otroArreglo)
 
-let numeros = [1,2,3,4,5,6,7,8,9,10]
-for(index = 0; index < numeros.length; index++){
-    //console.log(numeros[index])
-    if(numeros[index] % 2 == 0){
-        console.log(numeros[index])
-    }
+// //recorrido de un arreglo
+// let numeros = [1,2,3,4,5,6,7,8,9,10]
+// for(let index = 0; index < numeros.length; index++){
+//     //console.log(numeros[index])
+//     if(numeros[index] % 2 == 0){
+//         console.log(numeros[index])
+//     }
+// }
 
+//Llenado de un arreglo
+let nombres = []
+for(let index = 0; index < 5; index++){
+    nombres[index] = prompt('Ingrese su nombre: ')
+}
+
+for(let index = 0; index < nombres.length; index++){
+    console.log(nombres[index])
 }
