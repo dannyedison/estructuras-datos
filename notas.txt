@@ -3,3 +3,17 @@ Repositorio:
 git init -> Iniciat un repo vacío en la carpeta
 git add . -> Agrega todo el contenido al repo vacío (ya no está vacío)
 git commiy -m "Mensaje descriptivo" ->
+git remote add origin https://github.com/dannyedison/estructuras-datos.git
+git push -u origin master/main
+
+creacion de una rama
+git checkout -b nombreDeLaRama
+
+
+
+Los arreglos son un espacio de memoria que almacena multiples valores.
+Los arreglos son un conjunto de datos  (cualquier tipo de datos)
+Un arreglo se puede definir vacio: variable = []
+
+    Tamaño -> Hace referencia a la cantidad de elementos dentro del arreglo
+    Posición -> hace referencia a la cantidad de elementos -1 
